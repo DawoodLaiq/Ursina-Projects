@@ -7,27 +7,27 @@ Welcome to my collection of games and projects developed using the Ursina game e
 ### 1. **Build and Destroy Game**
 A dynamic game where you can build and destroy blocks while avoiding obstacles. The game features a rising lava challenge that adds a layer of excitement.
 
-[View Code](https://github.com/DawoodLaiq/Ursina-Projects/blob/main/Build%20and%20Destroy%20game/buildanddestroy5.py)
+[View Code](https://github.com/DawoodLaiq/Ursina-Projects/blob/master/Build%20and%20Destroy%20game/buildanddestroy5.py)
 
 ### 2. **Breakout Game**
 Relive the classic breakout game with a modern twist. Break the bricks using the ball and win the game.
 
-[View Code](https://github.com/DawoodLaiq/Ursina-Projects/blob/main/Breakout%20game/Breakout.py)
+[View Code](https://github.com/DawoodLaiq/Ursina-Projects/blob/master/Breakout%20game/Breakout.py)
 
 ### 3. **First Person Shooting Basic**
 Step into the shoes of a shooter and target your enemies. This basic FPS game provides a foundation for more complex shooting games.
 
-[View Code](https://github.com/DawoodLaiq/Ursina-Projects/blob/main/First%20person%20shooting%20basic/shooter.py)
+[View Code](https://github.com/DawoodLaiq/Ursina-Projects/blob/master/First%20person%20shooting%20basic/shooter.py)
 
 ### 4. **Maze Game**
 Navigate through a maze filled with obstacles and reach the finish line. A test of patience and strategy.
 
-[View Code](https://github.com/DawoodLaiq/Ursina-Projects/blob/main/Maze%20game/maze.py)
+[View Code](https://github.com/DawoodLaiq/Ursina-Projects/blob/master/Maze%20game/maze.py)
 
 ### 5. **Skipping Stone Game**
 Jump from stone to stone and avoid falling into the water. A fun and challenging game that tests your timing and precision.
 
-[View Code](https://github.com/DawoodLaiq/Ursina-Projects/blob/main/Skipping%20stone%20game/jump%20game.py)
+[View Code](https://github.com/DawoodLaiq/Ursina-Projects/blob/master/Skipping%20stone%20game/jump%20game.py)
 
 ---
 
